@@ -1,2 +1,3 @@
-# templates
-A Collection of Email and Landing Page Templates for Use with Gophish
+# hub
+
+_Coming Soon!_

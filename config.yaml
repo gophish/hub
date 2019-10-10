@@ -1,0 +1,5 @@
+repositories:
+  - https://github.com/gophish/hub-files.git
+
+server:
+  listenAddress: "0.0.0.0:3000"
